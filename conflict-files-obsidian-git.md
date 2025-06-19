@@ -3,7 +3,8 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 (This file will automatically be deleted before commit)
 [[#Additional Instructions]] available below file list
 
-- Not a file: 00 - Cache/Test Task.md
+- [[Test Task]]
+- [[20 Jun, 2025]]
 
 # Additional Instructions
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
